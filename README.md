@@ -1,4 +1,4 @@
-![tf_logo](https://github.com/dedkoster/DS_ML/blob/master/GDG_KHV_workshop_Tensorflow/tf_land.png)
+![tf_logo](https://github.com/dedkoster/GDG_KHV_TF_Workshop/blob/master/tf_land.png)
 
 # Source for introduction workshop to Tensorflow 2.0
 
